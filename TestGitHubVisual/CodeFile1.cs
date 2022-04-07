@@ -1,3 +1,4 @@
-﻿/* un commentaire */
+using System;
+/* un commentaire */
 
 Console.Write("toto");
